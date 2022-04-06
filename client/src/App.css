@@ -1,0 +1,16 @@
+body {
+  color: cornflowerblue;
+  text-align: center;
+}
+
+div {
+  margin-top: 10px;
+}
+
+button {
+  cursor: pointer;
+  color: white;
+  background-color: cornflowerblue;
+  margin-top: 10px;
+  border-radius: 2px;
+}
